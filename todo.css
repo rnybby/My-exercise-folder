@@ -1,0 +1,27 @@
+#add{
+    background-color: #28e041;
+
+}
+body{
+    background-color: antiquewhite;
+}
+span h1{
+   text-decoration: underline ;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    background-color: lightgrey;
+  
+}
+
+div{
+text-align: center;
+
+}
+
+#task li:hover{
+background-color: rgba(0,0,0,0.1);
+transition: all 200ms
+}
